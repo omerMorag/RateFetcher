@@ -1,0 +1,17 @@
+{
+  "USD/ILS": {
+    "Pair": "USD/ILS",
+    "Rate": 3.726,
+    "LastUpdateTime": "2025-04-14T12:32:44.2587427Z"
+  },
+  "EUR/USD": {
+    "Pair": "EUR/USD",
+    "Rate": 0.88165,
+    "LastUpdateTime": "2025-04-14T12:28:58.6346358Z"
+  },
+  "GBP/USD": {
+    "Pair": "GBP/USD",
+    "Rate": 0.764292,
+    "LastUpdateTime": "2025-04-14T12:28:59.0865856Z"
+  }
+}

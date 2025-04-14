@@ -1,0 +1,9 @@
+﻿namespace RateFetcher.Models
+{
+    public class ExchangeRateResponse
+    {
+        public string Base { get; set; }
+        public string Date { get; set; } 
+        public Dictionary<string, double> Rates { get; set; }
+    }
+}
